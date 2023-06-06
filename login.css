@@ -1,0 +1,10 @@
+body{
+    text-align:center;
+    background-image: radial-gradient(circle,red,yellow,blue);
+}
+div{
+    height: 250px;
+    border: 10px solid black; width: 300px;
+    margin:auto;
+    background-color: aqua(231,255,255);
+}
